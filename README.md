@@ -5,7 +5,8 @@
 </h1>
 
 <h1 align="center">
-    <a href="https://www.johnsmilga.com/"><h4>Instructor John Smilga</h4>
+    <a href="https://www.johnsmilga.com/">
+    <h4>Instructor John Smilga</h4>
     <img src="https://www.johnsmilga.com/static/addict-logo-1aa184b72402c3328eac28070b4f062d.svg"/>
     </a>
 </h1>
