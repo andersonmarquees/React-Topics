@@ -31,16 +31,16 @@
 - [x] Short-Circuit Evaluation
 - [x] Ternary Operator
 - [x] Show/Hide Component
+- [x] Form Basics
+- [x] Controlled Inputs
+- [x] Add Item to the List
+- [x] Multiple Inputs
+- [x] useRef
 
 <h4 align="center"> 
 	🚧  React - Topics 🚀 In progress...  🚧
 </h4>
 
-- [] Form Basics
-- [] Controlled Inputs
-- [] Add Item to the List
-- [] Multiple Inputs
-- [] useRef
 - [] useReducer - useState Setup
 - [] useReducer - Refactor
 - [] useReducer - Add Item
