@@ -36,18 +36,18 @@
 - [x] Add Item to the List
 - [x] Multiple Inputs
 - [x] useRef
+- [x] useReducer - useState Setup
+- [x] useReducer - Refactor
+- [x] useReducer - Add Item
+- [x] useReducer - Remove Item
+- [x] Prop Drilling
+- [x] Context API / useContext
+- [x] Custom Hooks - useFetch
 
 <h4 align="center"> 
 	🚧  React - Topics 🚀 In progress...  🚧
 </h4>
 
-- [] useReducer - useState Setup
-- [] useReducer - Refactor
-- [] useReducer - Add Item
-- [] useReducer - Remove Item
-- [] Prop Drilling
-- [] Context API / useContext
-- [] Custom Hooks - useFetch
 - [] PropTypes - Setup
 - [] PropTypes - Images
 - [] PropTypes - Default Values
