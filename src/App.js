@@ -1,14 +1,14 @@
 import React from "react";
 
-// import Setup from "./tutorial/10-prop-types/setup/index";
-// import Final from "./tutorial/6-useReducer/final/index";
-import Index from "./tutorial/13-Interview/fetch";
+import Setup from "./tutorial/10-prop-types/setup/index";
+// import Final from "./tutorial/10-prop-types/final/index";
+// import Index from "./tutorial/13-Interview/fetch";
 
 function App() {
   return (
     <div className="container">
-      <Index />
-      {/* <Setup /> */}
+      {/* <Index /> */}
+      <Setup />
       {/* <Final /> */}
     </div>
   );

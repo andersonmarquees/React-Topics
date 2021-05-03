@@ -43,14 +43,14 @@
 - [x] Prop Drilling
 - [x] Context API / useContext
 - [x] Custom Hooks - useFetch
+- [x] PropTypes - Setup
+- [x] PropTypes - Images
+- [x] PropTypes - Default Values
 
 <h4 align="center"> 
 	🚧  React - Topics 🚀 In progress...  🚧
 </h4>
 
-- [] PropTypes - Setup
-- [] PropTypes - Images
-- [] PropTypes - Default Values
 - [] React Router Intro
 - [] React Router - Basic Setup
 - [] React Router - Error and Switch Component
