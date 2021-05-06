@@ -46,18 +46,17 @@
 - [x] PropTypes - Setup
 - [x] PropTypes - Images
 - [x] PropTypes - Default Values
+- [x] React Router Intro
+- [x] React Router - Basic Setup
+- [x] React Router - Error and Switch Component
+- [x] React Router - Links
+- [x] React Router - Url Params and Placeholder
+- [x] React Optimization Warning!!!!
+- [x] React.memo
+- [x] useCallback
+- [x] useMemo
+- [x] useCallback - Fetch Example
 
 <h4 align="center"> 
 	🚧  React - Topics 🚀 In progress...  🚧
 </h4>
-
-- [] React Router Intro
-- [] React Router - Basic Setup
-- [] React Router - Error and Switch Component
-- [] React Router - Links
-- [] React Router - Url Params and Placeholder
-- [] React Optimization Warning!!!!
-- [] React.memo
-- [] useCallback
-- [] useMemo
-- [] useCallback - Fetch Example
